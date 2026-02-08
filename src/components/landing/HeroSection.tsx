@@ -16,10 +16,10 @@ const HeroSection = () => {
             <span className="inline-block rounded-full bg-primary/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-wider text-primary mb-6">
               Curso Online Completo
             </span>
-            <h1 className="text-4xl md:text-5xl lg:text-[3.4rem] font-bold leading-tight text-foreground mb-6">
-              Aprenda{" "}
+            <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight text-foreground mb-6">
+              Domine a técnica de{" "}
               <span className="text-primary italic">Brow Lamination</span>{" "}
-              e conquiste clientes em poucos dias — mesmo sem experiência.
+              e transforme sua carreira.
             </h1>
             <p className="text-lg md:text-xl text-muted-foreground leading-relaxed mb-8 max-w-lg">
               Método simples, rápido e prático para criar sobrancelhas perfeitas
